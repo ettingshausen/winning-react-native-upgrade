@@ -1,4 +1,4 @@
-# react-native-upgrade
+# winning-react-native-upgrade
 
 ## Getting started
 
@@ -10,7 +10,7 @@
 
 ## Usage
 ```javascript
-import Upgrade from 'react-native-upgrade';
+import Upgrade from 'winning-react-native-upgrade';
 
 // TODO: What to do with the module?
 Upgrade;
