@@ -2,11 +2,11 @@
 
 ## Getting started
 
-`$ npm install react-native-upgrade --save`
+`$ npm install winning-react-native-upgrade --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-upgrade`
+`$ react-native link winning-react-native-upgrade`
 
 ## Usage
 ```javascript
